@@ -1,4 +1,3 @@
-// TASK 8 SOLUTION: GridView.count + fullscreen preview
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
